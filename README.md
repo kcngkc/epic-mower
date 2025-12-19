@@ -1,6 +1,4 @@
 ### EPIC Mower : Weatherproof Landscaping Business ###
-Vote for my project submitted to Salesforce Agentforce Virtual Hackathon
-https://devpost.com/software/reimagine-field-service
 
 ### The Importance of Weatherproof Landscaping Field Service
 
